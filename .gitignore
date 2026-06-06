@@ -1,1 +1,4 @@
-echo .env >> .gitignore
+echo .env >> .gitignorerm 
+
+__pycache__/
+*.pyc
